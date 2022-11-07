@@ -4,3 +4,4 @@ FinTech-Mod21-Challenge
 
 ![Screenshot](Sample1.jpg)
 ![Screenshot](Sample2.jpg)
+![Screenshot](Sample3.jpg)
